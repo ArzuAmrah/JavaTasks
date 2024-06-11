@@ -17,7 +17,7 @@ public class Task4 {
         } else if (grade >=10 && grade <=12) {
             System.out.println("High");
         }else{
-            System.out.println("You are noy student");
+            System.out.println("You are not student");
         }
 
     }
